@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Willkommen auf meinem IT Journal
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Über mich
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Diese Seite wurde während meiner Zeit im HPC erstellt. Hier Dokumentiere ich gelerntes als auch meine Tages und Wochenberichte.
 
-## Project layout
+## MKDOCS
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Erstellt habe ich diese Seite mit MKDOCS. 
