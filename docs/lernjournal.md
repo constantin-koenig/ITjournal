@@ -2,6 +2,22 @@
 
 ## Hier werden Sie alle Tagesberichte und Wochenberichte von mir finden.
 
+### Tagesbericht vom 16.11.2021
+
+#### Tätigkeiten:
+1. Mkdocs
+#### Tagesablauf:
+
+Heute habe ich am Morgen mit Michael kurz via Teams geredet. Danach habe ich mich direkt ins MkDocs gestürzt. Ich habe heute viel ausprobiert und werde morgen mit Michael darüber reden.  Die Anleitung war gut, jedoch hat nicht alles so geklappt wie es sollte.
+
+#### Was lief gut:
+Ich bin gut vorwärtsgekommen. Einiges hat zwar trotz Anleitung nicht funktioniert, aber das werde ich wie schon erwähnt morgen mit Michael anschauen.
+
+#### Nächste Schritte:
+Morgen besprechen und verbessern.
+
+
+
 ### Tagesbericht vom 15.11.2021
 
 ####Tätigkeiten:
