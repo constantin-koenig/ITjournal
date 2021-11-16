@@ -13,6 +13,7 @@
 #### Tagesablauf:
 
 Heute habe ich am Morgen meinen Quartalsbericht geschrieben. Dort habe ich mir Gedanken gemacht, wie die Zeit bei Kusi lief. Danach habe ich den PCR Test drüben im H4 gemacht. Das Quartalsgespräch war ziemlich anschliessend. Das Gespräch lief sehr gut und wir konnten sehr vieles besprechen und gemeinsam beurteilen.
+
 *[PCR]: Test nach der Methode Polymerase-Kettenreaktion
 
 
