@@ -6,9 +6,9 @@
 
 ####Tätigkeiten:
 
-...* PCR Test
-...* Quartalsgespräch
-...* Kurzvortrag
+1. PCR Test
+2. Quartalsgespräch
+3. Kurzvortrag
 
 #### Tagesablauf:
 
