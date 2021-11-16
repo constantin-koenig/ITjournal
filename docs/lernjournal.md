@@ -5,9 +5,10 @@
 ### Tagesbericht vom 15.11.2021
 
 ####Tätigkeiten:
-...*PCR Test
-...*Quartalsgespräch
-...*Kurzvortrag
+
+...* PCR Test
+...* Quartalsgespräch
+...* Kurzvortrag
 
 #### Tagesablauf:
 
