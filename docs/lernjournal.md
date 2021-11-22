@@ -45,8 +45,6 @@ Ich habe heute echt viel erledigen können und bin nun so mit mir zufrieden.
 Morgen fahre ich mit dem eigentlichen Auftrag weiter.
 
 ### Tagesbericht vom 01.11.2021
-#### 2021-11-01 - Constantin König - TB
-#### Erstellt von König, Constantin (ID) am 01. Nov. 2021
 
 ##### Tätigkeiten
 -HPC
