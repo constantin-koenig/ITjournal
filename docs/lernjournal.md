@@ -83,6 +83,7 @@ Morgen fahre ich mit dem eigentlichen Auftrag weiter.
 - HPC
 - Homebrew
 - VIM
+
 ** Tagesablauf **
 
 Heute hatte ich meinen ersten Tag beim HPC. Zuerst haben ich und Rolli ein bisschen administratives besprochen. Danach habe ich Homebrew installiert. Homebrew ist ein Packet Manager. Danach habe ich mit Homebrew VIM, Oracle Virtualbox und wget installiert.
