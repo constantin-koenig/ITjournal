@@ -2,6 +2,8 @@
 
 ## Hier werden Sie alle Tagesberichte und Wochenberichte von mir finden.
 
+---
+
 ### Tagesbericht vom 22.11.2021
 
 ** Tätigkeiten: **
@@ -25,7 +27,7 @@ Ich finde es toll, dass wir heute in den Serverraum gehen konnten. Das war etwas
 ** Nächste Schritte **
 
 
-
+---
 
 ### Tagesbericht vom 16.11.2021
 
@@ -45,7 +47,7 @@ Ich bin gut vorwärtsgekommen. Einiges hat zwar trotz Anleitung nicht funktionie
 
 Morgen besprechen und verbessern.
 
-
+---
 
 ### Tagesbericht vom 15.11.2021
 
@@ -58,6 +60,7 @@ Morgen besprechen und verbessern.
 ** Tagesablauf: **
 
 Heute habe ich am Morgen meinen Quartalsbericht geschrieben. Dort habe ich mir Gedanken gemacht, wie die Zeit bei Kusi lief. Danach habe ich den PCR Test drüben im H4 gemacht. Das Quartalsgespräch war ziemlich anschliessend. Das Gespräch lief sehr gut und wir konnten sehr vieles besprechen und gemeinsam beurteilen.
+
 *[PCR]: Test nach der Methode Polymerase-Kettenreaktion
 
 
@@ -74,7 +77,7 @@ Ich habe heute echt viel erledigen können und bin nun so mit mir zufrieden.
 
 Morgen fahre ich mit dem eigentlichen Auftrag weiter.
 
-
+---
 
 ### Tagesbericht vom 01.11.2021
 
