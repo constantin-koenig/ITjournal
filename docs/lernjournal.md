@@ -4,6 +4,26 @@
 
 ---
 
+### Tagesbericht vom 30.11.2021
+
+** Tätigkeiten ** 
+
+- Vagrant
+
+** Tagesablauf **
+
+Heute habe ich mich mit Vagrant beschäftigt.
+Am Morgen habe ich es dann hinbekommen, dass die Maschine nun startet, danach war die Challange von Michael,
+dass ich zwei VM's via Vagrant gleichzeitig starte. Dies konnte ich lösen. 
+Später haben wir gemeinsam einige Sachen besprochen, unteranderem vie das NAT funktioniert.
+
+** Was lief gut **
+
+Obwohl ich einige Zeit mit ausprobieren im Vagrantfile verloren habe,
+ konnte ich zumindest die VM's nun starten und mich mit diesen verbinden.
+
+---
+
 ### Tagesbericht vom 22.11.2021
 
 ** Tätigkeiten: **
