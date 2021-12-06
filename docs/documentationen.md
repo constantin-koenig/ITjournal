@@ -1,5 +1,31 @@
 # Meine Wocheberichte
 
+### Wochenbericht der Woche 48
+
+** Handlung ** 
+
+Diese Woche habe ich mit Vagrant gearbeitet.
+Ich habe bereits in meiner Sys Zeit schon mit Vagrant gearbeitet.
+Nun habe ich diese Woche von Michael den Auftrag bekommen, eine virtuelle Umgebung mit Vagrant zu erstellen.
+Die Umgebung sollte folgendes beinhalten:
+
+- Datenbank Server
+- Webserver
+
+Der Webserver soll die angeforderten Daten vom Datenbankserver beziehen. 
+Ausserd soll auf dem Webserver Wordpress installiert und benützt werden.
+Der Datenbankserver verwendet MariaDB als Datenbank.
+
+** Umsetzung **
+
+Am Ersten Tag habe ich mich nochmals mit Vagrant und dem Vagrant File vertraut gemacht.
+Am Zweiten Tag habe ich es dann geschafft das beide Server von einem Vagrantfile aus starten. 
+Zuletzt habe ich dann einen weiteren Netzwerkadapter zu den beiden VM's hinzugefügt so dass diese miteinander komunizieren können.
+
+** Wie geht es weiter? **
+
+In der Woche 49 werde ich mit dem Projekt weiterfahren.
+
 ## Wochenbericht der Woche 47
 
 ** Tätigkeit **
