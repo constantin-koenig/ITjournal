@@ -4,6 +4,29 @@
 
 ---
 
+### Tagesbericht vom 06.12.2021
+
+** Tätigkeiten **
+
+- Datenbank installieren
+
+** Tagesablauf **
+
+Heute habe ich MariaDB auf meinem Datenbankserver installiert.
+Morgen in der Früh habe ich mich Zuhause eingerichtet, so das alles funktionierte.
+Ich habe provisorisch ein Ethernet Kabel durch mein Zimmer gelegt, danach konnte ich starten.
+Zuerst war ich mit Michael am Morgen im Call. Dort hat er mir mit den Tagesablauf besprochen.
+Danach habe ich mich ans Umsetzen gemacht. Zuerst habe ich mein Linux aktualisiert.
+Danach habe ich Maria DB installiert.
+Ausserdem habe ich noch den Wochenbericht von letzter Woche abgeschlossen und hochgeladen.
+
+** Was lief gut **
+
+Die DB läuft und wurde bereits getestet.
+
+
+---
+
 ### Tagesbericht vom 30.11.2021
 
 ** Tätigkeiten ** 
