@@ -4,6 +4,28 @@
 
 ---
 
+### Tagesbericht vom 08.12.2021
+
+** Tätigkeiten **
+
+- Tagesbesprechung mit Michael und Nico
+- SQL
+- Helpdesk
+
+** Tagesablauf **
+
+Zuerst hatte ich am Morgen mit Michael und Nico die Besprechung.
+Da ich gestern nicht viel weiter gekommen bin, habe ich heute Morgen noch ein wenig daran gearbeitet.
+Leider habe ich am Morgen mich an meinem Fuss verletzt, später wurde dies dann Blau.
+Deshalb bin ich am Nachmittag während der Helpdeskschicht in den Notfall gegangen.
+Ich habe meinen Zehen verstaucht und habe deshalb eine Sportdispens bekommen.
+
+** Was lief schlecht **
+
+Durch den Unfall heute morgen habe ich leider viel Zeit verloren.
+
+---
+
 ### Tagesbericht vom 06.12.2021
 
 ** Tätigkeiten **
