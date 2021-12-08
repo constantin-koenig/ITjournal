@@ -3,8 +3,8 @@
 
 ## Über mich
 
-Diese Seite wurde während meiner Zeit im HPC erstellt. Hier Dokumentiere ich gelerntes als auch meine Tages und Wochenberichte.
+Diese Seite wurde während meiner Zeit im HPC-Team erstellt. Hier Dokumentiere ich gelerntes als auch meine Tages und Wochenberichte.
 
 ## MKDOCS
 
-Erstellt habe ich diese Seite mit MKDOCS. 
+Erstellt habe ich diese Seite mit MkDocs.
