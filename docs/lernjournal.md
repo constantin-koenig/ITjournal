@@ -4,6 +4,53 @@
 
 ---
 
+### Tagesbericht vom 14.12.2021
+
+** Tätigkeiten **
+
+- Tagesbesprechung mit Michael und Nico
+- SQL
+- Ferienplanung
+
+
+** Tagesablauf **
+
+Am Morgen habe ich mit Michael und Nico geredet.
+Dort habe ich dann erwähnt, dass ich bald Ferien nehmen muss.
+Ausserdem haben wir danach noch das Charset richtig angepasst auf dem Server.
+Die World Datenbank haben wir ebenfalls importiert.
+
+
+** Was lief schlecht **
+
+Die Ferienplanung war leider sehr kurzfristig, hat jedoch trotzdem geklappt.
+
+---
+
+### Tagesbericht vom 13.12.2021
+
+** Tätigkeiten **
+
+- Tagesbesprechung mit Michael und Nico
+- Kurze Präsi
+- SQL und Charsets
+
+** Tagesablauf **
+
+Heute Morgen habe ich zuerst mit Michael besprochen was heute ansteht.
+Ich habe dann mit meinen noch nicht fertigen Sachen von letzter Woche weitergefahren.
+Am Nachmittag habe ich dann mit Nico und Michael geredet und meine kurze Präsenation gehalten.
+Danach haben wir einiges über SQL angeschaut.
+
+
+** Was lief schlecht **
+
+Die Präsentation habe ich leider falsch gemacht.
+Ich habe die Aufgabenstellung falsch verstanden,
+ jetzt halte ich am 10.01.2021 nochmals eine Präsenation
+
+---
+
 ### Tagesbericht vom 08.12.2021
 
 ** Tätigkeiten **
