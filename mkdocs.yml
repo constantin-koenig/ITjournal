@@ -21,4 +21,5 @@ markdown_extensions:
   - abbr
   - pymdownx.snippets
 
-
+plugins:
+  - git-revision-date
