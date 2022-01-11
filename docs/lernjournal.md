@@ -4,6 +4,32 @@
 
 ---
 
+### Tagesbericht vom 11.01.2022
+
+** Tätigkeiten **
+
+- Tagesbesprechung mit Michael
+- Installieren von Apache und PHP 8
+
+
+** Tagesablauf **
+
+Am Morgen habe ich mit Michael telefoniert
+Dort haben wir besprochen, wie wir nun weiterhin vorgehen.
+Ich bin nun am Webserver aufsetzen und konfigurieren.
+Das heisst heute habe ich Apache und PHP 8 installiert.
+
+
+** Was lief gut **
+
+Ich konnte PHP 8 gut installieren, obwohl modularity eher schwierig war.
+
+
+** Was lief schlecht **
+
+Ich konnte noch nicht auf die PHP Seite zugreifen.
+
+---
 ### Tagesbericht vom 14.12.2021
 
 ** Tätigkeiten **
