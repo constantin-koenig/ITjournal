@@ -1,5 +1,43 @@
 # Meine Wocheberichte
 
+### Wochenbericht der Woche 02
+
+** Handlung **
+
+Diese Woche habe ich den Web Server aufgesetzt.
+Dabei musste ich folgende Sachen installieren:
+
+- PHP 8
+- Apache
+
+Dem Webserver wird dann nächste Woche noch Wordpress hinzugefügt.
+
+** Umsetzung **
+
+Zuerst habe ich Apache installiert. Dies lief sehr gut und konnte ich
+ einfach und selbständig mit einem Tutorial aus dem Internet bewältigen.
+Danach habe ich PHP 8 installiert. Das war eher schwierig (Stichwort Modularity).
+Deshalb habe ich PHP 8 von deinem Git Repo genommen, welches extra für Rocky Linux
+ und andere Distributionen erstellt wurde. Mit diesem konnte man dann PHP 8 installieren.
+Also habe ich diese mit Hilfe eines online Tutorials installiert.
+
+** Wie geht es weiter? **
+Nun werde ich all diese Befehle noch in ein Skript schreiben, so dass man den Webserver
+ immer wieder in kürzester Zeit hochziehen kann.
+
+** Was lief gut **
+
+Die Installation lief eigentlich bei beiden Programmen sehr gut und hat mir auch spass gemacht.
+Ich denke der Webserver wird mir allgemein viel spass bereiten, da ich gerade das Arbeiten mit
+ Wordpress und HTML echt cool finde!
+
+** Was lief schlecht **
+
+Das Arbeiten am Webserver lief sehr schnell und flüssig, jedoch habe ich letzte Woche durch die
+ Präsentation und dem Wiedereinstieg ein bisschen Zeit verloren.
+
+---
+
 ### Wochenbericht der Woche 48
 
 ** Handlung **
