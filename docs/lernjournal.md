@@ -4,6 +4,37 @@
 
 ---
 
+** Tätigkeiten **
+
+- Morgen und Nachmittagsbesprechung mit Michael und Nico
+- Script zusammen anschauen
+- Script verbessern
+
+
+** Tagesablauf **
+
+Am Morgen habe ich mit Michael und Nico telefoniert.
+Dieses Gespräch war eher kurz, da Michael und Nico gleich danach in
+ eine Besprechung eingeladen waren.
+Ich habe das Script in dieser Zeit verbessert und mir das DB Script
+ nochmals angeschaut. Ausserdem habe ich die VM's mit Vagrant destroyed.
+Dies habe ich gemacht, damit ich nachvollziehen kann ob die Scripts wie
+ gewünscht funktionieren.
+
+
+** Was lief gut **
+
+Beide Scripts funktionierten am Ende des Tages.
+
+
+** Was lief schlecht **
+
+Der Wochenbericht von Gestern war ein zu wenig Fachlich für Michael.
+Darum werde ich diese Woche versuchen einen Wochenbericht zu Modularity
+ und rpm zu erstellen.
+
+---
+
 ### Tagesbericht vom 11.01.2022
 
 ** Tätigkeiten **
