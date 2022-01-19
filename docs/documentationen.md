@@ -1,5 +1,37 @@
 # Meine Wocheberichte
 
+### Wochenbericht der Woche 03
+
+** Handlung **
+
+In diesem Wochenbericht werde ich über folgende Dinge berichten.
+
+- RPM
+- Modularity
+
+Beides habe ich zur Umsetzung des Webserver benutzt.
+
+** Umsetzung **
+
+Modularity ist mir beim PHP 8 begegnet. Da Rockylinux standard mässig kein PHP 8
+ unterschtüzt, musste ich auf die Remi Repos ausweichen.
+https://blog.remirepo.net/post/2020/11/30/Install-PHP-8.0-on-CentOS-RHEL-or-Fedora
+
+Modularity bringt den Vorteil, dass man z.B. nun nicht mehr nur auf eine PHP Version angewiesen ist.
+ Das bedeutet, dass ich sowohl PHP 8.0 als auch PHP 7.2 gleichzeitig installieren kann.
+ Nun ist es also möglich, dass ich auf dem gleichen Webserver eine Seite mit PHP 8.0 und
+ eine Seite mit PHP 7.2 laufen lassen kann.
+
+RPM ** WB noch nicht fertig **
+
+** Wie geht es weiter? **
+
+** Was lief gut **
+
+** Was lief schlecht **
+
+---
+
 ### Wochenbericht der Woche 02
 
 ** Handlung **
